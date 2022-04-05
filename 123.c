@@ -5,4 +5,5 @@ int main()
     printf("Your entered number is : %d \n",a);
     return 0;
     //Karan Gorai
+    // Reyansh kumar
 }
